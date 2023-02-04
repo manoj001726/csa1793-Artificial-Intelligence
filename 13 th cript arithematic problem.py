@@ -1,5 +1,6 @@
 # Python3 program for the above approach
 
+
 # Function to check if the
 # assignment of digits to
 # characters is possible
