@@ -1,4 +1,3 @@
-# define punctuation
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
 my_str = (input("enter a string: "))
