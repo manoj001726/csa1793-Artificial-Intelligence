@@ -75,7 +75,7 @@ def solveCSP(provinces, n, R, ci):
 
 
 # main program starts
-# ===================================================
+# ==================================================
 
 n=5 #int(input("Enter the number of color"))
 colors=[]
