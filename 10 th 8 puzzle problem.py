@@ -204,6 +204,7 @@ final = [ [ 1, 2, 3 ],
 # Blank tile coordinates in the   
 # initial configuration  
 empty_tile_posi = [ 1, 2 ]  
+
   
 # Method call for solving the puzzle  
 solve(initial, empty_tile_posi, final)  
