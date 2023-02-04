@@ -1,3 +1,4 @@
+
 def dfs(node, graph, visited, component):
     component.append(node)  
     visited[node] = True  
