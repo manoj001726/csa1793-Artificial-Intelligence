@@ -1,4 +1,3 @@
-
 import calendar
 
 y = int(input("Enter year : "))
