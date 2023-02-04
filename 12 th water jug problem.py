@@ -1,3 +1,4 @@
+
 # This function is used to initialize the
 # dictionary elements with a default value.
 from collections import defaultdict
