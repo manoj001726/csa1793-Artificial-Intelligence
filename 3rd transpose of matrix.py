@@ -1,5 +1,4 @@
 # Program to transpose a matrix using a nested loop
-
 X = [[12,7],
     [4 ,5],
     [3 ,8]]
